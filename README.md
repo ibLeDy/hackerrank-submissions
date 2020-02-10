@@ -26,6 +26,15 @@ my [profile](https://www.hackerrank.com/deejaynof).
   - [Lists](./python/basic-data-types/lists.py)
   - [Tuples](./python/basic-data-types/tuples.py)
 
+## [Linux Shell](https://www.hackerrank.com/domains/shell)
+
+- [Bash](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash)
+  - [Let's Echo](./linux-shell/bash/lets_echo)
+  - [Looping and Skipping](./linux-shell/bash/looping_and_skipping)
+  - [A Personalized Echo](./linux-shell/bash/a_personalized_echo)
+  - [Looping with Numbers](./linux-shell/bash/looping_with_numbers)
+  - [The World of Numbers](./linux-shell/bash/the_world_of_numbers)
+
 ## [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 - [Day 0](./30-days-of-code/day00.py)
@@ -58,12 +67,3 @@ my [profile](https://www.hackerrank.com/deejaynof).
 - [Day 27](./30-days-of-code/day27.py)
 - [Day 28](./30-days-of-code/day28.py)
 - [Day 29](./30-days-of-code/day29.py)
-
-## [Linux Shell](https://www.hackerrank.com/domains/shell)
-
-- [Bash](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash)
-  - [Let's Echo](./linux-shell/bash/lets_echo)
-  - [Looping and Skipping](./linux-shell/bash/looping_and_skipping)
-  - [A Personalized Echo](./linux-shell/bash/a_personalized_echo)
-  - [Looping with Numbers](./linux-shell/bash/looping_with_numbers)
-  - [The World of Numbers](./linux-shell/bash/the_world_of_numbers)
