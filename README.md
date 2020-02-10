@@ -7,7 +7,7 @@ my [profile](https://www.hackerrank.com/deejaynof).
 [![GitHub top language](https://img.shields.io/github/languages/top/ibLeDy/hackerrank-submissions)](https://github.com/ibLeDy/hackerrank-submissions/search?l=python)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ibLeDy/hackerrank-submissions)](https://github.com/ibLeDy/hackerrank-submissions/commits/master)
 
-## [Python](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+## [Python](https://www.hackerrank.com/domains/python)
 
 - [Introduction](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
   - [Say "Hello, World!" With Python](./python/introduction/hello_world.py)
