@@ -18,7 +18,7 @@ my [profile](https://www.hackerrank.com/deejaynof).
   - [Write a function](./python/introduction/write_a_function.py)
   - [Print Function](./python/introduction/print_function.py)
 
-- [Basic Data Tyoes](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types)
+- [Basic Data Types](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types)
   - [List Comprehensions](./python/basic-data-types/list_comprehensions.py)
   - [Find the Runner-Up Score!](./python/basic-data-types/find_the_runner_up_score.py)
   - [Nested Lists](./python/basic-data-types/nested_lists.py)
