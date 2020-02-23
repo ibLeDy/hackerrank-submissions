@@ -58,7 +58,7 @@ my [profile](https://www.hackerrank.com/deejaynof).
 - [Day 18](./30-days-of-code/day18.py) [![logo]](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
 - [Day 19](./30-days-of-code/day19.py) [![logo]](https://www.hackerrank.com/challenges/30-interfaces/problem)
 - [Day 20](./30-days-of-code/day20.py) [![logo]](https://www.hackerrank.com/challenges/30-sorting/problem)
-- Day 21 [![logo]](https://www.hackerrank.com/challenges/30-generics/problem)
+- [Day 21](./30-days-of-code/day21.java) [![logo]](https://www.hackerrank.com/challenges/30-generics/problem)
 - [Day 22](./30-days-of-code/day22.py) [![logo]](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
 - [Day 23](./30-days-of-code/day23.py) [![logo]](https://www.hackerrank.com/challenges/30-binary-trees/problem)
 - [Day 24](./30-days-of-code/day24.py) [![logo]](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
