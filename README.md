@@ -1,6 +1,6 @@
 # HackerRank Submissions
 
-I began using [HackerRank](https://www.hackerrank.com/) around April 2019, this is
+I began using [HackerRank](https://www.hackerrank.com) around April 2019, this is
 my [profile](https://www.hackerrank.com/deejaynof).
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/ibLeDy/hackerrank-submissions)](https://github.com/ibLeDy/hackerrank-submissions)
@@ -9,7 +9,7 @@ my [profile](https://www.hackerrank.com/deejaynof).
 
 ## [Python](https://www.hackerrank.com/domains/python)
 
-- [Introduction](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
+- [Introduction](https://www.hackerrank.com/domains/python/py-introduction)
   - [Say "Hello, World!" With Python](./python/introduction/hello_world.py)
   - [Python If-Else](./python/introduction/python_if_else.py)
   - [Arithmetic Operators](./python/introduction/arithmetic_operators.py)
@@ -18,7 +18,7 @@ my [profile](https://www.hackerrank.com/deejaynof).
   - [Write a function](./python/introduction/write_a_function.py)
   - [Print Function](./python/introduction/print_function.py)
 
-- [Basic Data Types](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types)
+- [Basic Data Types](https://www.hackerrank.com/domains/python/py-basic-data-types)
   - [List Comprehensions](./python/basic-data-types/list_comprehensions.py)
   - [Find the Runner-Up Score!](./python/basic-data-types/find_the_runner_up_score.py)
   - [Nested Lists](./python/basic-data-types/nested_lists.py)
@@ -26,9 +26,22 @@ my [profile](https://www.hackerrank.com/deejaynof).
   - [Lists](./python/basic-data-types/lists.py)
   - [Tuples](./python/basic-data-types/tuples.py)
 
+## [Algorithms](https://www.hackerrank.com/domains/algorithms)
+
+- [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
+  - [Solve Me First](./algorithms/warmup/solve_me_first.py)
+  - [Simple Array Sum](./algorithms/warmup/simple_array_sum.py)
+  - [Compare the Triplets](./algorithms/warmup/compare_the_triplets.py)
+  - [A Very Big Sum](./algorithms/warmup/a_very_big_sum.py)
+
+## [Data Structures](https://www.hackerrank.com/domains/data-structures)
+
+- [Arrays](https://www.hackerrank.com/domains/data-structures/arrays)
+  - [2D Array - DS](./data-structures/arrays/arrays_ds.py)
+
 ## [Linux Shell](https://www.hackerrank.com/domains/shell)
 
-- [Bash](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash)
+- [Bash](https://www.hackerrank.com/domains/shell/bash)
   - [Let's Echo](./linux-shell/bash/lets_echo)
   - [Looping and Skipping](./linux-shell/bash/looping_and_skipping)
   - [A Personalized Echo](./linux-shell/bash/a_personalized_echo)
