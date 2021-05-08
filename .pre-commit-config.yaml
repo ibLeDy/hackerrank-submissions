@@ -16,9 +16,11 @@ repos:
       - id: mixed-line-ending
       - id: name-tests-test
       - id: check-json
+  - repo: https://github.com/pycqa/flake8
+    rev: 3.9.1
+    hooks:
       - id: flake8
-        args:
-          ["--count", "--ignore=E501,F401", --exclude=.venv", "--statistics"]
+        args: ["--ignore=E501,F401"]
   - repo: https://github.com/jumanjihouse/pre-commit-hooks
     rev: 1.11.2
     hooks:
